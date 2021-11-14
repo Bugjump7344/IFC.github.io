@@ -1,0 +1,9 @@
+{
+  "servername": "IFC国际版服务器",
+  "ip": "h1.mcbds.vip",
+  "port": "20003",
+  "api": "https://smgoro.top/motd/api.php?ip=h1.mcbds.vip&port=20003",
+  "qq": "http://wpa.qq.com/msgrd?v=3&uin=2928070754&site=qq&menu=yes",
+  "email": "18970804470@163.com",
+  "phpapi": "POST传参地址"
+}
